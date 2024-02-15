@@ -1,0 +1,15 @@
+Churro Hole: 7.448
+3.7 mm
+8 mm from big hole center
+big hole is 8 mm
+32 mm wide
+set screw holes are 3.175 mm
+Big holes are 32 mm
+
+Total Width: 46.912 mm
+
+Hex width: 14.896 mm
+
+Platform Width: 28 mm
+
+Hex to platform: 3.952 mm
